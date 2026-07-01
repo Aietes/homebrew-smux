@@ -1,8 +1,8 @@
 class Smux < Formula
   desc "Tmux session manager with fzf-powered project and template selection"
   homepage "https://github.com/Aietes/smux"
-  url "https://github.com/Aietes/smux/archive/refs/tags/v0.2.1.tar.gz"
-  sha256 "b20e8af3c4e4d795b0267a76c1a7f5d3697c0eea69e2623bd9870f3bf68064d3"
+  url "https://github.com/Aietes/smux/archive/refs/tags/v0.2.2.tar.gz"
+  sha256 "81b31fdb021c5ed3c11806e98312430bc5ba2985096cca39ad9416a3bf4212b0"
   license "MIT"
   head "https://github.com/Aietes/smux.git", branch: "main"
 
